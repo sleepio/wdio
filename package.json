@@ -12,7 +12,7 @@
     "mailhog": "4",
     "uuid": "3",
     "wdio-screen-commands": "2",
-    "webdriverio": "5"
+    "webdriverio": "5.23.0"
   },
   "devDependencies": {
     "eslint": "6",
